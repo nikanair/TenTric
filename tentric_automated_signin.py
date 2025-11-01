@@ -1,5 +1,4 @@
 # GST Automation Software : Fully autamated filing
-# Shynu S V
 
 from easygui import *
 import easygui
@@ -455,4 +454,5 @@ os.system("taskkill /f /im chromedriver.exe.exe")
 os.system("taskkill /f /im chrome.exe")
 os.exit()
 exit()
+
 
